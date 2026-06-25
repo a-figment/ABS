@@ -1,0 +1,15 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.1}First passage time distribution}{2}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.2}First passage time density}{3}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.3}Mean first passage time}{4}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.4}First passage time as function of initial conditions}{5}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.5}Escape to a symbolic sequence}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.6}Escape direction distribution}{6}% 
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {0.0.7}First passage time distribution within finite time}{6}% 

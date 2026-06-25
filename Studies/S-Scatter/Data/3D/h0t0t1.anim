@@ -1,0 +1,21 @@
+reset session
+
+set term gif size 800,800 animate delay 10
+set output "h0t0t1.gif"
+
+#set view equal xyz
+#set border 4095
+
+set xrange [0:0.5] 
+set yrange [-(pi/2):(3*pi/2)]
+set zrange [-(pi/2):(3*pi/2)]
+set xlabel "h_0"
+set ylabel "θ_0"
+set zlabel "θ_1"
+set xyplane 0
+
+do for [a=1:360:1] {
+    set view 60,a,1
+    splot 'p0-a7-r0--H0T0RN.dat' using 1:2:3 with dots notitle
+}
+set output

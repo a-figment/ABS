@@ -1,0 +1,10 @@
+*.dat
+*.txt
+*Simulation.txt
+*OUT
+*ERR
+*.png
+*.pdf
+*.mp4
+*.RData
+*.svg
