@@ -145,7 +145,7 @@ int main(int argc, char *argv[])
     float_ mstep = (float_)1; // Moment step
     
     std::string DataDir = "Data/" + Key;
-    //std::string DataDir = "/fred/oz055/jorchard_data/ABS/S-Moments/" + Key;
+    //std::string DataDir = "/fred/oz055/pathtohpc/ABS/S-Moments/" + Key;
     
     Simulation<float_> Sim {
         .Time = TIME,

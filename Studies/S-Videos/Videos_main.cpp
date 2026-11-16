@@ -68,7 +68,7 @@ int main(int argc, char *argv[])
         .L = {0},
         .TimesToGet = {0},
         .Symbols = {""},
-        //.DataDestination = "/fred/oz055/jorchard_data/ABS/S-BallisticFront/" + Key,
+        //.DataDestination = "/fred/oz055/pathtohpc/ABS/S-BallisticFront/" + Key,
         .DataDestination = "Data/" + Key,
         .RunTime = ".",
         .MomentStep = (float_)1,

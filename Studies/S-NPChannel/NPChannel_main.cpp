@@ -88,7 +88,7 @@ int main(int argc, char *argv[])
         .L = {0},
         .TimesToGet = { (float_)1e3, (float_)1e4, (float_)1e5 },
         .Symbols = {""},
-        //.DataDestination = "/fred/oz055/jorchard_data/ABS/S-NPChannel/" + Key,
+        //.DataDestination = "/fred/oz055/pathtohpc/ABS/S-NPChannel/" + Key,
         .DataDestination = "Data/" + Key,
         .RunTime = ".",
         .MomentStep = 1/(float_)10,

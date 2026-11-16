@@ -328,7 +328,7 @@ int main(int argc, char *argv[])
 
     // =============================== SIMULATION START ===============================
     std::string DataDir = "Data/" + Key;
-    //std::string DataDir = "/fred/oz055/jorchard_data/ABS/S-MID/" + Key;
+    //std::string DataDir = "/fred/oz055/pathtohpc/ABS/S-MID/" + Key;
     
     const float_ TotalTime = 1e5;
     std::vector<float_> TIME = seq<float_>(0, TotalTime, TotalTime/1000 + 1);

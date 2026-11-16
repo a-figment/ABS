@@ -97,7 +97,7 @@ int main(int argc, char *argv[])
         .L = {0},
         .TimesToGet = { (float_)1000, (float_)10000, (float_)100000, (float_)500000 },
         .Symbols = {""},
-        //.DataDestination = "/fred/oz055/jorchard_data/ABS/S-PAC/" + Key,
+        //.DataDestination = "/fred/oz055/pathtohpc/ABS/S-PAC/" + Key,
         .DataDestination = "Data/" + Key,
         .RunTime = ".",
         .MomentStep = 2,

@@ -64,7 +64,7 @@ int main(int argc, char *argv[])
     //    .Time = getExponentialTimes<float_>(T, 1000),
     //    .L = {0},
     //    .Symbols = {""},
-    //    .DataDestination = "/fred/oz055/jorchard_data/ABS/S-RegularGeoms/" + Key,
+    //    .DataDestination = "/fred/oz055/pathtohpc/ABS/S-RegularGeoms/" + Key,
     //    .RunTime = ".",
     //    .MomentStep = (float_)0.5,
     //    .TotalTime = T,

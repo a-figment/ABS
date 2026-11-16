@@ -434,7 +434,7 @@ int main(int argc, char *argv[])
 
     // =============================== SIMULATION START ===============================    
     std::string DataDir = "Data/" + Key;
-    //std::string DataDir = "/fred/oz055/jorchard_data/ABS/Scatter/" + Key;
+    //std::string DataDir = "/fred/oz055/pathtohpc/ABS/Scatter/" + Key;
 
     float_ eps = 1e-12;
     size_t M = 1000000;

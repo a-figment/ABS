@@ -79,7 +79,7 @@ int main(int argc, char *argv[])
     std::vector<float_> TIME = seq<float_>(0, 1e8+1, 2001);
 
     // CONSTANTS
-    std::string DataDestination = "/fred/oz055/jorchard_data/ABS/SAD/";
+    std::string DataDestination = "/fred/oz055/pathtohpc/ABS/SAD/";
     int M = 200; // Num. particles
     float_ MomentStep = 1/(float_)2;
     size_t nMoments = 20;
